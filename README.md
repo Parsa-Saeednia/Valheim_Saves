@@ -13,4 +13,4 @@ Valheim files for multiplayer server
 
 4. When you are host, push the changes into the respository after you're done.
 
-5.Enjoy! 
+5. Enjoy! 
